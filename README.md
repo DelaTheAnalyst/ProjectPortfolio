@@ -1,2 +1,2 @@
-# ProjectPortfolio
-This project is an analysis of climate intervention responses made by Farmers in the Volta Basin of Ghana. The responses are projected in a bar plot.
+# Analysis of Evapotranspiration Formulas
+Using variables gathered at the CSIR Weather Station in Accra, this project compares various evapotranspiration formulas to the standardized evotranspiration formula(Penman Monteith).
